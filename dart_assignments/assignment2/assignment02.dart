@@ -9,7 +9,7 @@ void main() {
   // }
 
 //Question 02(Take two variables and store age then using if/else condition to determine oldest and youngest among them.)
-  int ageOne = 28;
+  int ageOne = 29;
   int ageTwo = 24;
   if (ageOne > ageTwo) {
     print("Age One Oldest and Age Two Youngest");
